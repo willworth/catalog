@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "will worth",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "passport": "^0.5.2"
+  }
 }
