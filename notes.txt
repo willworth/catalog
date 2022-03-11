@@ -1,3 +1,15 @@
+https://database.guide/install-mysql-on-a-mac/
+
 https://github.com/mysqljs/mysql
 
 https://www.youtube.com/watch?v=EN6Dx22cPRI
+
+https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79?signin=true
+
+  "type": "module",
+
+
+  Many tutorials now use the import XXX from 'XXX' (ES Modules) syntax instead of const XXX = require('XXX') (CommonJS) syntax.
+  https://flaviocopes.com/how-to-enable-es-modules-nodejs/
+
+  https://flaviocopes.com/axios/
